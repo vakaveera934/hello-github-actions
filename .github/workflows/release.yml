@@ -3,7 +3,7 @@ name: Release npm package
 on:
   push:
     branches:
-      - vakaveera934-patch-3
+      - master
 
 jobs:
   release:
